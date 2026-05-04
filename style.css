@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(135deg, #1e1e2f, #2b5876);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.main-container {
+  padding: 30px;
+}
+
+/* KPI Cards */
+.kpi {
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+  box-shadow: 0px 6px 15px rgba(0,0,0,0.3);
+}
+
+/* Gradients */
+.gradient-1 {
+  background: linear-gradient(45deg, #ff7e5f, #feb47b);
+}
+.gradient-2 {
+  background: linear-gradient(45deg, #43cea2, #185a9d);
+}
+.gradient-3 {
+  background: linear-gradient(45deg, #f7971e, #ffd200);
+}
+
+/* Chart Cards */
+.chart-card {
+  padding: 20px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Insights */
+.insight-card {
+  padding: 20px;
+  border-radius: 15px;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
